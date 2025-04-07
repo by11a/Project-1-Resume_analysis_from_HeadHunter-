@@ -70,4 +70,5 @@
 
 ## Данные
 - Датасет с курсами валют: `ExchangeRates.csv`.
-- Датасет с резюме: [Ссылка на Google Drive](https://drive.google.com/file/d/1YC8zUxcTOYiIu_xhfs700PkrQy8MwbKd/view?usp=sharing).
+- Датасет с резюме: [Датасет](https://drive.google.com/file/d/1YC8zUxcTOYiIu_xhfs700PkrQy8MwbKd/view?usp=sharing).
+- Папка с графиками: [Графики](https://drive.google.com/file/d/1YC8zUxcTOYiIu_xhfs700PkrQy8MwbKd/view?usp=sharing).
